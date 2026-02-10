@@ -1,11 +1,8 @@
 package org.example;
 
 public class App {
-  public int getInput() {
-    // Implement your function here
-  }
-
   public static void main(String[] args) {
-    // Test your function here in a driver program
+    // Exercise your `getInput` function here in this driver program.
+    // You can delete these comments.
   }
 }
